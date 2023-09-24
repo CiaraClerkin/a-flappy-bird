@@ -202,7 +202,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -216,7 +216,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -236,7 +236,7 @@ TextureImporter:
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -309,6 +309,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1501,14 +1513,70 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flappyBirdResources_0: 3510227820708364274
+      flappyBirdResources_1: -2534268476925928518
+      flappyBirdResources_10: 7538688363663811008
+      flappyBirdResources_11: -2249494944797326801
+      flappyBirdResources_12: 1467850766921079757
+      flappyBirdResources_13: -3020287214729459519
+      flappyBirdResources_14: 6831785356243983399
+      flappyBirdResources_15: -3629035780974363319
+      flappyBirdResources_16: 6134887129459086922
+      flappyBirdResources_17: -7217215073451494361
+      flappyBirdResources_18: 3519900272526332365
+      flappyBirdResources_19: 700108460389643257
+      flappyBirdResources_2: 3543243078814923771
+      flappyBirdResources_20: 2673271266694960969
+      flappyBirdResources_21: 2452946679016734406
+      flappyBirdResources_22: -7147088219367907493
+      flappyBirdResources_23: -8871935614824562976
+      flappyBirdResources_24: 5929638831290333551
+      flappyBirdResources_25: 2817356925203640757
+      flappyBirdResources_26: 6220288823525133467
+      flappyBirdResources_27: -324625956123978612
+      flappyBirdResources_28: -6622953984167048247
+      flappyBirdResources_29: 7378931848327275735
+      flappyBirdResources_3: -9122751716578319064
+      flappyBirdResources_30: 1055787291293939461
+      flappyBirdResources_31: 7767992734207069788
+      flappyBirdResources_32: -203369464511515322
+      flappyBirdResources_33: -12882603725532857
+      flappyBirdResources_34: -5983525316329817904
+      flappyBirdResources_35: 7685224577281251249
+      flappyBirdResources_36: 3689115303176956624
+      flappyBirdResources_37: 8837761676817525780
+      flappyBirdResources_38: 2044806467479059721
+      flappyBirdResources_39: -5348240621009126830
+      flappyBirdResources_4: -4189864795711491323
+      flappyBirdResources_40: 8700736431509227230
+      flappyBirdResources_41: -1553194443651142485
+      flappyBirdResources_42: 38318343784849585
+      flappyBirdResources_43: -2116431438321203149
+      flappyBirdResources_44: -6622763211677670689
+      flappyBirdResources_45: -8879530618533458548
+      flappyBirdResources_46: -8589736656857971270
+      flappyBirdResources_47: -3031466467708177942
+      flappyBirdResources_48: 2527709656146136361
+      flappyBirdResources_49: -1676059582738676823
+      flappyBirdResources_5: -1156714701173519195
+      flappyBirdResources_50: -4975933604094238870
+      flappyBirdResources_51: -3768150793565874133
+      flappyBirdResources_52: 6171079097311954270
+      flappyBirdResources_53: 8259095914204918421
+      flappyBirdResources_54: 3385707025585476495
+      flappyBirdResources_55: -8721937057816080109
+      flappyBirdResources_6: -230031334095109169
+      flappyBirdResources_7: -8455651177051733453
+      flappyBirdResources_8: -4358882324822493022
+      flappyBirdResources_9: 5697945367726833140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
